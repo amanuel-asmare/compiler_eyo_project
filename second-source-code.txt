@@ -1,0 +1,8 @@
+# this is second option source code
+## this source code to perform to display text
+#include<iostream>
+using namespace std
+int main(){
+cout<<"helo eyob are you programer";
+return 0;
+}
