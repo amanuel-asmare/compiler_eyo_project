@@ -2,14 +2,14 @@
 
 ## Group Two
 
-| No. | Full Name       | ID         |
-| --- | --------------- | ---------- |
-| 1   | Eyob Wendmagegn | WDU146035 |
-| 2   | Ephrem Gulma    | WDU149158 |
-| 3   | Esmael Kibret   | WDU146008 |
-| 4   | Abreham Girma   | WDU145291 |
-| 5   | Kidst Molla     | WDU146562 |
-| 6   | Hana Gebeyaw    | WDU149199 |
+| No. | Full Name       | ID        | email                     |
+| --- | --------------- | ----------|---------------------------|
+| 1   | Eyob Wendmagegn | WDU146035 |EyobWendmagegn17@gmail.com |
+| 2   | Ephrem Gulma    | WDU149158 |EphremGulma1@gmail.com     |
+| 3   | Esmael Kibret   | WDU146008 |EsmaelKibret2@gmail.com    |
+| 4   | Abreham Girma   | WDU145291 |AbrehamGirma3@gmail.com    |
+| 5   | Kidst Molla     | WDU146562 |KidstMolla4@gmail.com      |
+| 6   | Hana Gebeyaw    | WDU149199 |HanaGebeyaw5@gmail.com     |
 
 ## Project Title
 **Design and Implementation of a Lexical Analyzer for a Custom Programming Language**
@@ -62,4 +62,7 @@ This project involves the design and implementation of a lexical analyzer for a 
 
 
  #### Project Deadline **19/01/2025**
+ 
+ #### submite to: **michael**
+
 
